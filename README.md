@@ -3,5 +3,6 @@ learn git repository
 
 hi!
 
-making changes....
+making changes.. #deleted dots
 
+Another change
